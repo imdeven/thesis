@@ -10,7 +10,7 @@ $fb = new Facebook\Facebook([
 
 $fb->setDefaultAccessToken('CAAKhyiOX6mQBAP2ITw2lvlX37OPZCBIuZAR2QYmYK2CoVRpZB3evMkI2GvtTVkmjpabB6sTaBzdvVxHy3qa0FmWUCnYdmocNXkWAA5lqGrqcKhZANrQ1KGAPDdBuiQFrpZBkBgTaWDTKqqYnoznrp75xBvhwOZA6q8GC3NnhH1H4AuFnvFOiroq0esaj9jbmDJKrwVjC5AGO9os2bZBJvbZB');
 
-$group_list = array("135680313149366"," 48171250774", "155693674503445", "1530628167179293", "1573250556260862", "316371215208103", "514529652039425");
+$group_list = array("48171250774");
 //while(1)
 foreach ($group_list as $group_id){
 
